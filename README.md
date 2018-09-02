@@ -2,5 +2,5 @@
 
 desc : aplikasi Buku online
 
-![Logo] (Screenshot/home.PNG)
-![Logo] (Screenshot/menu.PNG)
+![Logo] (Screenshot/home.png)
+![Logo] (Screenshot/menu.png)
